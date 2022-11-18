@@ -28,7 +28,7 @@ Hi, I'm a freelance web developer with full-stack experience seeking to put my e
 <a href="https://github.com/grubbcc/anagrams">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grubbcc&repo=anagrams&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
-<a href="https://github.com/grubbcc/anagrams">
+<a href="https://github.com/grubbcc/license-to-spell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grubbcc&repo=license-to-spell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
