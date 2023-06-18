@@ -36,7 +36,7 @@ Hi, I'm a freelance web developer with full-stack experience seeking to put my e
 
 - <a href="https://www.linkedin.com/in/christopher-grubb-464aa183">LinkedIn</a>
 - <a href="https://www.seattlephysicstutor.com">Seattle Physics Tutor</a>
-- <a href="https://www.seattplephysicstutor.com/anagrams.html">Anagrams</a>
+- <a href="https://www.seattlephysicstutor.com/anagrams.html">Anagrams</a>
 - <a href="https://woogles.io">Woogles.io</a>
 
 </a>    
